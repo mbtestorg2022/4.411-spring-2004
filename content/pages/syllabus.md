@@ -41,10 +41,39 @@ Participation is crucial to the success of the course. While attendance will not
 
 You will typically be encouraged to work in small groups, depending on the lab and available resources. Groups of 2-3 can work well; pairs are usually optimal and a group size larger than a threesome is unwieldy. Solo work is also permitted but is necessarily more work.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three Lab Reports | 30% each |
-| Final Design Project | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Lab Reports
+{{< tdclose >}}
+{{< tdopen >}}
+30% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Design Project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 Lab reports may be submitted up to one week late with no reduction in credit. Further delays must be authorized by the instructor or the score will be reduced by 10% of full credit per additional week. Resources needed to complete labs may not be available after the nominal completion date. Lab reports will be returned within one week of submittal. Schedule adjustments will be made as necessary to accommodate major studio reviews or other significant deadlines.
